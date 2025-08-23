@@ -2,7 +2,7 @@
 
 A comprehensive smart contract ecosystem for decentralized freelance collaboration, built on Ethereum and compatible with EVM-based blockchains.
 
-## Overview
+
 
 This platform provides a complete solution for freelance work management, including:
 
